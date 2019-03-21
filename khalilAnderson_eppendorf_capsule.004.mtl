@@ -1,0 +1,39 @@
+newmtl MAT_clearPlasticSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.40 0.40 0.40
+map_Kd khalilAnderson_eppendorf_ALB.002.tga
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl MAT_metalSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd khalilAnderson_eppendorf_ALB.002.tga
+Ni 1.00
+Ks 1.00 1.00 1.00
+newmtl MAT_plasticSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd khalilAnderson_eppendorf_ALB.002.tga
+bump khalilAnderson_eppendorf_NRM.002.tga -bm 1
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl MAT_rubberSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd khalilAnderson_eppendorf_ALB.002.tga
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
